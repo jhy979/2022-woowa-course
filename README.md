@@ -25,8 +25,17 @@
 -->
 
 ### 관련 블로그 포스팅
-[테스트란? TDD란?](https://velog.io/@jhy979/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-feat.-TDD-BDD) <br>
+
+#### CSS
+
 [CSS: position, flex](https://velog.io/@jhy979/CSS-%EB%B0%B0%EC%B9%98position%EC%99%80-%EC%A0%95%EB%A0%ACflex) <br>
+
+#### 테스트
+
+[테스트란? TDD란?](https://velog.io/@jhy979/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-feat.-TDD-BDD) <br>
+
+#### JS
+
 [JS: 고차함수 정리](https://velog.io/@jhy979/Javascript-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98-%EC%A0%95%EB%A6%AC) <br>
 [JS: Data Type](https://velog.io/@jhy979/Javascript-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85) <br>
 [JS: 비동기 처리](https://velog.io/@jhy979/Javascript-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-Promise-async-await) <br>
