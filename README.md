@@ -23,17 +23,18 @@
 
 ### 관련 블로그 포스팅
 
-[Nine velog CSS 포스팅](https://velog.io/@jhy979/series/css
+[Nine velog CSS 포스팅](https://velog.io/@jhy979/series/css)
 
-[Nine velog JS 포스팅](https://velog.io/@jhy979/series/Javascript
+[Nine velog JS 포스팅](https://velog.io/@jhy979/series/Javascript)
 
 [Nine velog Git 포스팅](https://velog.io/@jhy979/series/Git)
 
 [Nine velog Test 포스팅](https://velog.io/@jhy979/series/Test)
 
-[Nine velog HTML 포스팅](https://velog.io/@jhy979/series/Network)
+[Nine velog Network 포스팅](https://velog.io/@jhy979/series/Network)
 
-(https://velog.io/@jhy979/series/HTML)
+[Nine velog HTML 포스팅](https://velog.io/@jhy979/series/HTML)
+
 ## 레벨2 - React
 
 ### 🗓️ 기간
