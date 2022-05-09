@@ -23,27 +23,17 @@
 
 ### 관련 블로그 포스팅
 
-<!-- #### CSS
+[Nine velog CSS 포스팅](https://velog.io/@jhy979/series/css
 
-[CSS: position, flex](https://velog.io/@jhy979/CSS-%EB%B0%B0%EC%B9%98position%EC%99%80-%EC%A0%95%EB%A0%ACflex) <br>
+[Nine velog JS 포스팅](https://velog.io/@jhy979/series/Javascript
 
-#### 테스트
+[Nine velog Git 포스팅](https://velog.io/@jhy979/series/Git)
 
-[테스트란? TDD란?](https://velog.io/@jhy979/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%9E%80-feat.-TDD-BDD) <br>
+[Nine velog Test 포스팅](https://velog.io/@jhy979/series/Test)
 
-#### JS
+[Nine velog HTML 포스팅](https://velog.io/@jhy979/series/Network)
 
-[JS: 고차함수 정리](https://velog.io/@jhy979/Javascript-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98-%EC%A0%95%EB%A6%AC) <br>
-[JS: Data Type](https://velog.io/@jhy979/Javascript-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85) <br>
-[JS: 비동기 처리](https://velog.io/@jhy979/Javascript-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC-Promise-async-await) <br>
-[JS: BOM](https://velog.io/@jhy979/BOM) <br>
-[JS: DOM](https://velog.io/@jhy979/DOM) <br>
-[JS: Event](https://velog.io/@jhy979/Javascript-Event) <br>
-[JS: 실행 컨텍스트, 스코프](https://velog.io/@jhy979/Execution-Context-Scope) <br>
-[JS: Object](https://velog.io/@jhy979/Object-%EA%B0%9D%EC%B2%B4) <br>
-[JS: Prototype](https://velog.io/@jhy979/Prototype) <br> -->
-
-
+(https://velog.io/@jhy979/series/HTML)
 ## 레벨2 - React
 
 ### 🗓️ 기간
@@ -68,3 +58,5 @@
 -->
 
 ### 관련 블로그 포스팅
+
+[Nine velog React 포스팅](https://velog.io/@jhy979/series/React)
