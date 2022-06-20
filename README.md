@@ -60,6 +60,44 @@
 |미션| [확인] | [@페어] | [PR] | [1단계 피드백] | [PR] | [2단계 피드백] | [@리뷰어] | [크루 피드백]
 -->
 
+### 레벨2 장바구니 협업 미션
+- 처음으로 BE 크루들과 이야기하고 협업하는 미션
+- BE 크루 : 연로그, 호호, 에덴, 코린
+- FE 크루 : 나인, 위니
+
+
+|정리|링크|
+|:--:|:--:|
+|FE 크루 위니와의 대화|[장바구니 관련 FE 생각 정리](https://playful-sweatshirt-1df.notion.site/FE-X-4dba180e32804106b5fb2b1f2cab501f)|
+|팀원 회의 및 API 명세|[팀 회의](https://www.notion.so/d77ad15fe0c04f01a940a01dc73acc9c)|
+|회원 인증 인가 처리|[1단계 PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/7)|
+|장바구니 모든 API 커버|[2단계 PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/54)|
 ### 관련 블로그 포스팅
 
 [Nine velog React 포스팅](https://velog.io/@jhy979/series/React)
+
+
+## 레벨3 - 협업 프로젝트
+
+### 🗓️ 기간
+- 2022.06.28 ~ 2022.08.19
+
+### 🎯 목표
+- 협업 능력 기르기
+- 하나의 서비스를 실제 기획하고 구현하기
+- 갈등 해결하기
+- 어떤 기술 스택을 사용할지 결정하기
+
+### 📝 회의록 정리
+|회의 주제|날짜|링크|
+|:--:|:--:|:--:|
+|프로젝트 아이디어 정리|20220620|[1차 회의](https://playful-sweatshirt-1df.notion.site/1-20220620-ea53228d1cb74907affed9fa7e8b46b1)|
+
+### 
+
+<!--
+|미션| [확인] | [@페어] | [PR] | [1단계 피드백] | [PR] | [2단계 피드백] | [@리뷰어] | [크루 피드백]
+-->
+
+### 관련 블로그 포스팅
+
