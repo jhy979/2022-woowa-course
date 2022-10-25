@@ -87,7 +87,23 @@
 - 협업 능력 기르기
 - 갈등 해결하기
 
-### 회의록 및 팀 관련 문서 정리
+
+#### 달력이 기록을 공유할 때, 달록
+[달록 서비스 바로가기](https://dallog.me)
+
+[Github 바로가기](https://github.com/woowacourse-teams/2022-dallog)
+
+[프로젝트 소개 웹사이트 바로가기](https://sites.google.com/woowahan.com/woowacourse-demo-4th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%8B%AC%EB%A1%9D)
+
+[달록 기술 블로그 바로가기](https://dallog.github.io/)
+
+#### 발표
+
+[[프로젝트 1차 데모] 달록](https://www.youtube.com/watch?v=CpEPET2jXO4)
+
+[[프로젝트 3차 데모] 달록](https://www.youtube.com/watch?v=sP1F-wWO0sY)
+
+#### 회의록 및 팀 관련 문서 정리
 - 노션 링크 첨부 예정
 
 ---
@@ -101,7 +117,6 @@
 - 성능 최적화
 - Typescript
 - 웹 접근성
-
 
 |프로젝트|미션 링크|1단계|2단계|리뷰어님|
 |:--:|:--:|:--:|:--:|:--:|
