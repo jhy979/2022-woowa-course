@@ -105,8 +105,7 @@
 
 |프로젝트|미션 링크|1단계|2단계|리뷰어님|
 |:--:|:--:|:--:|:--:|:--:|
-|성능 베이스캠프| [확인](https://github.com/woowacourse/perf-basecamp) | [PR](https://github.com/woowacourse/perf-basecamp/pull/49) | [PR]() | [@우연](https://github.com/ronci)|
-|성능 베이스캠프| [확인](https://github.com/woowacourse/ts-module) | [PR](https://github.com/woowacourse/ts-module/pull/30) | - | [@블링]([https://github.com/ronci](https://github.com/uk960214))|
-|성능 베이스캠프| [확인](https://github.com/woowacourse/a11y-airline) | [PR](https://github.com/woowacourse/a11y-airline/pull/51) | [PR](https://github.com/woowacourse/a11y-airline/pull/84) | [@민초](https://github.com/jswith)|
-### 관련 블로그 포스팅
+|성능 베이스캠프| [확인](https://github.com/woowacourse/perf-basecamp) | [PR](https://github.com/woowacourse/perf-basecamp/pull/49) | - | [@우연](https://github.com/ronci)|
+|Typescript 미션| [확인](https://github.com/woowacourse/ts-module) | [PR](https://github.com/woowacourse/ts-module/pull/30) | - | [@블링](https://github.com/uk960214)|
+|웹 접근성 미션| [확인](https://github.com/woowacourse/a11y-airline) | [PR](https://github.com/woowacourse/a11y-airline/pull/51) | [PR](https://github.com/woowacourse/a11y-airline/pull/84) | [@민초](https://github.com/jswith)|
 
