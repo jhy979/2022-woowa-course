@@ -124,3 +124,7 @@
 |Typescript 미션| [확인](https://github.com/woowacourse/ts-module) | [PR](https://github.com/woowacourse/ts-module/pull/30) | - | [@블링](https://github.com/uk960214)|
 |웹 접근성 미션| [확인](https://github.com/woowacourse/a11y-airline) | [PR](https://github.com/woowacourse/a11y-airline/pull/51) | [PR](https://github.com/woowacourse/a11y-airline/pull/84) | [@민초](https://github.com/jswith)|
 
+#### 발표
+
+[우아한테크코스 테코톡 발표 - Babel](https://www.youtube.com/watch?v=o-5K5Sc7L1k)
+
